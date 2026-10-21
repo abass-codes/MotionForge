@@ -151,9 +151,3 @@ output/
 - **Dense painting**: lower `--vg-step` to 6 and `--paint-density` to 4
 - **More swirl**: raise `--vg-curve` to 0.6 and `--vg-blur` to 40
 - **More silhouettes**: lower `--mog2-thresh` to 25–28
-
-## Project Information
-
-MotionForge by Yakubu Mohammed Abass
-Course: COMP 430
-GitHub: https://github.com/abass-codes/MotionForge
